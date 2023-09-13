@@ -38,14 +38,14 @@ import random
 numero_secreto = random.randint(1, 100)   Número secreto entre 1 e 100
 
 while True:
-    palpite = int(input(\"Digite seu palpite (ou 0 para sair): \"))
+    palpite = int(input("Digite seu palpite (ou 0 para sair):"))
     
     if palpite == 0:
-        print(\"Encerrando o jogo.\")
+        print("Encerrando o jogo.")
         break   Sai do loop
         
     if palpite == numero_secreto:
-        print(\"Você acertou! O número era\", numero_secreto)
+        print("Você acertou! O número era", numero_secreto)
         break   Sai do loop
 ```
 
@@ -80,7 +80,7 @@ Vamos explorar alguns exemplos de uso do `for`:
 ## Percorrendo uma Lista
 
 ```python
-frutas = \"maçã\", \"banana\", \"laranja\"
+frutas = "maçã", "banana", "laranja"
 
 for fruta in frutas:
     print(fruta)
@@ -91,7 +91,7 @@ Neste exemplo, o loop `for` percorre a lista de frutas e imprime cada uma delas.
 ## Percorrendo uma String
 
 ```python
-palavra = \"Python\"
+palavra = "Python"
 
 for letra in palavra:
     print(letra)

@@ -15,7 +15,7 @@ minha_lista.sort()
 Se os elementos não forem comparáveis, você receberá um erro. Para lidar com essa situação, você pode fornecer uma função de comparação opcional ao método `sort()`. Essa função será usada para comparar os elementos da lista. Por exemplo:
 
 ```python
-minha_lista = \"maçã\", \"banana\", \"uva\", \"laranja\"
+minha_lista = "maçã", "banana", "uva", "laranja"
 minha_lista.sort(key=len)
 ```
 
@@ -70,7 +70,7 @@ Aqui, estamos usando a compreensão de lista para elevar cada número ao quadrad
 Você pode até mesmo gerar todas as combinações de elementos de duas listas usando compreensões de lista aninhadas:
 
 ```python
-lista1 = \"A\", \"B\", \"C\"
+lista1 = "A", "B", "C"
 lista2 = 1, 2, 3
 comb = (letra, numero) for letra in lista1 for numero in lista2
 ```

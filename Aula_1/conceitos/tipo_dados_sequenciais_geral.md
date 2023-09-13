@@ -24,11 +24,11 @@ minha_lista = 1, 2, 3, 4, 5
 
  Verificar se 3 está na lista
 if 3 in minha_lista:
-    print(\"3 está na lista\")
+    print("3 está na lista")
 
  Verificar se 6 não está na lista
 if 6 not in minha_lista:
-    print(\"6 não está na lista\")
+    print("6 não está na lista")
 ```
 
 ## Concatenação
