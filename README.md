@@ -11,7 +11,7 @@ Este curso foi projetado para alunos que já possuem conceitos básicos de progr
 
 # O Conteúdo do Curso
 Este curso está organizado em quatro aulas, que serão distribuídas ao longo de quatro semanas. Cada aula abordará conceitos essenciais para que você possa se preparar para o módulo 2 de sistemas de recomendação. Aqui está uma visão geral do que você aprenderá em cada aula:
-![imagem](img\mapa_g1.jpg) 
+![imagem](img/mapa_g1.jpg) 
 
 ## Aula 1: Fundamentos do Python
 -  Introdução ao Python e seus conceitos básicos.
@@ -39,7 +39,7 @@ Este curso está organizado em quatro aulas, que serão distribuídas ao longo d
 -  Trabalhando com APIs públicas.
 -  Tipos de serviço RPC e gRPC.
 
-[![youtube](img\capa_y.jpg)](https://youtu.be/1HBW5EuTsTI)
+[![youtube](img/capa_y.jpg)](https://youtu.be/1HBW5EuTsTI)
 
 # A Importância do Curso
 Este curso serve como base sólida para o módulo 2, onde você mergulhará mais fundo no mundo dos sistemas de recomendação. Os conhecimentos adquiridos aqui são essenciais para que você possa desenvolver aplicativos de inteligência artificial e análise de dados.
