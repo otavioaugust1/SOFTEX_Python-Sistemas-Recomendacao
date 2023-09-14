@@ -18,6 +18,11 @@ Aprofundaremos nossa compreensão da programação orientada a objetos, estudand
 Lidar com erros e exceções é uma parte essencial da programação. Nesta parte da aula, abordaremos o gerenciamento de exceções em Python e também exploraremos o uso de expressões regulares para manipular texto.
 
 - :link: [Exceções no python](../Aula_2/excecoes.md)
+- :link: [Expressões Regulares - Introdução](../Aula_2/Expressoes_regulares_introdução.md)
+- :link: [Expressões Regulares - Expressões](../Aula_2/expressoes_regulares_expressoes.md)
+- :link: [Expressões Regulares - Quantificadores e Conjuntos](../Aula_2/expressoes_regulares_quant_conj.md)
+- :link: [Expressões Regulares - Um Guia Abrangente](../Aula_2/expressoes_regulares_geral.md)
+
 
 ## Manipulação de arquivos e metadados :pencil2:
 A capacidade de interagir com arquivos é fundamental em muitos aplicativos. Vamos aprender a abrir, ler, escrever e manipular arquivos em Python. Também veremos como acessar metadados de arquivos.
@@ -35,5 +40,5 @@ Com a compreensão desses tópicos avançados, você estará mais preparado para
 
 - :link: [VOLTAR PARA A INTRODUÇÃO](../README.md)
 - :link: [Aula 1: Fundamentos do Python](../Aula_1/_Aula_1.md)
-- Aula 3: Ambientes Virtuais e Concorrência 
-- Aula 4: Consumo de Serviços com APIs
+- :link: [Aula 3: Ambientes Virtuais e Concorrência](../Aula_3/_Aula_3.md) 
+- :link: [Aula 4: Consumo de Serviços com APIs](../Aula_4/_Aula_4.md)

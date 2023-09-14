@@ -46,5 +46,5 @@ Este é apenas o começo da sua jornada em Python. À medida que avançamos, voc
 
 - :link: [VOLTAR PARA A INTRODUÇÃO](../README.md)
 - :link: [Aula 2: Orientação a Objetos e Além](../Aula_2/_Aula_2.md)
-- Aula 3: Ambientes Virtuais e Concorrência 
-- Aula 4: Consumo de Serviços com APIs
+- :link: [Aula 3: Ambientes Virtuais e Concorrência](../Aula_3/_Aula_3.md) 
+- :link: [Aula 4: Consumo de Serviços com APIs](../Aula_4/_Aula_4.md)

@@ -27,13 +27,13 @@ Este curso está organizado em quatro aulas, que serão distribuídas ao longo d
 -  Manipulação de arquivos e metadados.
 -  Introdução a bibliotecas e pacotes úteis.
 
-## Aula 3: Ambientes Virtuais e Concorrência
+## [Aula 3: Ambientes Virtuais e Concorrência](/Aula_3/_Aula_3.md) :link:
 -  Criação de ambientes virtuais para isolar pacotes.
 -  Introdução a testes automatizados.
 -  Documentação e boas práticas de programação.
 -  Noções de concorrência e paralelismo.
 
-## Aula 4: Consumo de Serviços com APIs
+## [Aula 4: Consumo de Serviços com APIs](/Aula_4/_Aula_4.md) :link:
 -  Métodos de acesso HTTP.
 -  Consumo de serviços através de APIs.
 -  Trabalhando com APIs públicas.
