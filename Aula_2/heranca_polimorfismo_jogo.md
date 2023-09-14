@@ -21,7 +21,7 @@ class Personagem:
         self.ataque = ataque
 
     def andar(self):
-        print(f\"{self.nome} está andando.")
+        print(f"{self.nome} está andando.")
 
     def atacar(self):
         pass
@@ -36,7 +36,7 @@ class Guerreiro(Personagem):
         self.forca = forca
 
     def atacar(self):
-        print(f\"{self.nome} ataca com força {self.forca}.")
+        print(f"{self.nome} ataca com força {self.forca}.")
 ```
 
 ## Classe Mago
@@ -48,7 +48,7 @@ class Mago(Personagem):
         self.mana = mana
 
     def atacar(self):
-        print(f\"{self.nome} lança uma magia com poder {self.mana}.")
+        print(f"{self.nome} lança uma magia com poder {self.mana}.")
 ```
 
 # Polimorfismo em Ação
