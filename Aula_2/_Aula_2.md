@@ -27,12 +27,17 @@ Lidar com erros e exceções é uma parte essencial da programação. Nesta part
 ## Manipulação de arquivos e metadados :pencil2:
 A capacidade de interagir com arquivos é fundamental em muitos aplicativos. Vamos aprender a abrir, ler, escrever e manipular arquivos em Python. Também veremos como acessar metadados de arquivos.
 
-Link para Manipulação de Arquivos e Metadados
+- :link: [Interface com o sistema de arquivos](../Aula_2/manipulacao_interfaces_arquivos.md)
+- :link: [Explorando Manipulação de arquivos](../Aula_2/explorando_manipulacao_arquivo.md)
 
 ## Introdução a bibliotecas e pacotes úteis :pencil2:
 Python possui uma rica ecossistema de bibliotecas e pacotes que podem facilitar muito o desenvolvimento de aplicativos. Nesta parte da aula, exploraremos algumas bibliotecas populares e como usá-las em seus projetos.
 
-Link para Bibliotecas e Pacotes
+- :link: [Introdução e intalação de uma biblioteca](../Aula_2/introducao_biblioteca_python.md)
+- :link: [Utilização da biblioteca - Numpy](../Aula_2/biblioteca_Numpy.md)
+- :link: [Intalação da biblioteca - Pandas](../Aula_2/biblioteca_Pandas.md)
+- :link: [Utilizando a biblioteca - Pandas](../Aula_2/utilizando_pandas.md)
+- :link: [Utilizando a biblioteca - Requests](../Aula_2/biblioteca_requests.md)
 
 Com a compreensão desses tópicos avançados, você estará mais preparado para criar programas complexos em Python e aproveitar ao máximo a linguagem. Certifique-se de seguir os links para as explicações detalhadas de cada tópico para um aprendizado mais aprofundado.
 

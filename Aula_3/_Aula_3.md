@@ -5,7 +5,7 @@ Na terceira aula, vamos explorar dois tópicos importantes para o desenvolviment
 ## Criação de ambientes virtuais para isolar pacotes :pencil2:
 Ao desenvolver em Python, é importante manter os pacotes e dependências organizados. Aprenderemos como criar ambientes virtuais, que são espaços isolados para projetos Python, permitindo o gerenciamento independente de pacotes.
 
- - Link para Criação de Ambientes Virtuais (em CONSTRUÇÃO)
+ - :link: [Criação de Ambientes Virtuais](../Aula_3/ambiente_virtual.md)
 
 ## Introdução a testes automatizados :pencil2:
 A garantia da qualidade do código é vital. Exploraremos a importância dos testes automatizados, incluindo testes unitários e de integração, e como criar e executar testes para garantir a confiabilidade do seu código.
