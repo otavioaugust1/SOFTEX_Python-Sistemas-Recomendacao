@@ -39,7 +39,7 @@ Este curso está organizado em quatro aulas, que serão distribuídas ao longo d
 -  Trabalhando com APIs públicas.
 -  Tipos de serviço RPC e gRPC.
 
-# Video no YOUTUBE :movie_camera:
+# [Video no YOUTUBE](https://youtu.be/1HBW5EuTsTI) :movie_camera:
 [![youtube](img/capa_y.jpg)](https://youtu.be/1HBW5EuTsTI) 
 
 # A Importância do Curso :persevere:
