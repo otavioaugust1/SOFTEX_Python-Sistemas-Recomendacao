@@ -5,7 +5,7 @@ Na terceira aula, vamos explorar dois tópicos importantes para o desenvolviment
 ## Criação de ambientes virtuais para isolar pacotes :pencil2:
 Ao desenvolver em Python, é importante manter os pacotes e dependências organizados. Aprenderemos como criar ambientes virtuais, que são espaços isolados para projetos Python, permitindo o gerenciamento independente de pacotes.
 
- - :link: [Criação de Ambientes Virtuais](../Aula_3/ambiente_virtual.md)
+ - :link: [Criação de Ambientes Virtuais](../Aula_3/conceitos/ambiente_virtual.md)
 
 ## Introdução a testes automatizados :pencil2:
 A garantia da qualidade do código é vital. Exploraremos a importância dos testes automatizados, incluindo testes unitários e de integração, e como criar e executar testes para garantir a confiabilidade do seu código.
@@ -23,13 +23,6 @@ Um código bem documentado e seguir boas práticas de programação são essenci
 - Link para Concorrência e Paralelismo (em CONSTRUÇÃO)
 
 Com o conhecimento adquirido nestes tópicos, você estará mais bem preparado para desenvolver aplicações Python robustas e escaláveis. Certifique-se de seguir os links para as explicações detalhadas de cada tópico para um aprendizado mais aprofundado.
-
-# Voltando para a introdução: :pencil2:
-
-- :link: [VOLTAR PARA A INTRODUÇÃO](../README.md)
-- :link: [Aula 1: Fundamentos do Python](../Aula_1/_Aula_1.md)
-- :link: [Aula 2: Orientação a Objetos e Além](../Aula_2/_Aula_2.md)
-- :link: [Aula 4: Consumo de Serviços com APIs](../Aula_4/_Aula_4.md)
 
 # Videos Aulas:
 
@@ -56,3 +49,10 @@ Com o conhecimento adquirido nestes tópicos, você estará mais bem preparado p
 | [docstrings_aula_ex0.py](../Aula_3/codigos/docstrings_aula_ex0.py) | Exemplo de chamada da função help em um módulo python |
 | [docstrings_ex3.py](../Aula_3/codigos/docstrings_ex3.py) | A class to represent a person.  ...  Attributes ---------- name : str first name of the person surname : str family name of the person age : int age of the person  Methods ------- info(additional=""): Prints the person's name and age. |
 | [docstrings_aula_ex1_uso.py](../Aula_3/codigos/docstrings_aula_ex1_uso.py) | Este módulo mostra o uso da documentação em um módulo customizado. |
+
+# Voltando para a introdução: :pencil2:
+
+- :link: [VOLTAR PARA A INTRODUÇÃO](../README.md)
+- :link: [Aula 1: Fundamentos do Python](../Aula_1/_Aula_1.md)
+- :link: [Aula 2: Orientação a Objetos e Além](../Aula_2/_Aula_2.md)
+- :link: [Aula 4: Consumo de Serviços com APIs](../Aula_4/_Aula_4.md)

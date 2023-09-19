@@ -42,13 +42,6 @@ Coleções são estruturas de dados importantes em Python. Vamos estudar listas,
 
 Este é apenas o começo da sua jornada em Python. À medida que avançamos, você ganhará um entendimento sólido dos fundamentos que o capacitarão a criar programas Python funcionais e eficientes. Certifique-se de seguir os links para as explicações detalhadas de cada tópico para um aprendizado mais profundo.
 
-# Voltando para a introdução: :pencil2:
-
-- :link: [VOLTAR PARA A INTRODUÇÃO](../README.md)
-- :link: [Aula 2: Orientação a Objetos e Além](../Aula_2/_Aula_2.md)
-- :link: [Aula 3: Ambientes Virtuais e Concorrência](../Aula_3/_Aula_3.md) 
-- :link: [Aula 4: Consumo de Serviços com APIs](../Aula_4/_Aula_4.md)
-
 # Videos Aulas:
 
 - [Apresentação do Curso de Sistemas de Recomendação](https://youtu.be/1HBW5EuTsTI)
@@ -172,3 +165,11 @@ Este é apenas o começo da sua jornada em Python. À medida que avançamos, voc
 | [collection_dict_ex10.py](../Aula_1/codigos/collection_dict_ex10.py) | Coleções em Python: - Dictionary: Atualizando um item do dicionário utilizando o método update(). |
 | [operador_comparacao_ex3.py](../Aula_1/codigos/operador_comparacao_ex3.py) | Exemplo básico de funcionamento do operador de comparação '>' em Python. |
 | [loop_while_problema_inteiro_negativo.py](../Aula_1/codigos/loop_while_problema_inteiro_negativo.py) | Exemplo do uso do mecanismo continue em um laço while |
+
+# Voltando para a introdução: :pencil2:
+
+- :link: [VOLTAR PARA A INTRODUÇÃO](../README.md)
+- :link: [Aula 2: Orientação a Objetos e Além](../Aula_2/_Aula_2.md)
+- :link: [Aula 3: Ambientes Virtuais e Concorrência](../Aula_3/_Aula_3.md) 
+- :link: [Aula 4: Consumo de Serviços com APIs](../Aula_4/_Aula_4.md)
+
