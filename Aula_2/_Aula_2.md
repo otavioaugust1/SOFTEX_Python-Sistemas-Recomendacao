@@ -41,19 +41,19 @@ Python possui uma rica ecossistema de bibliotecas e pacotes que podem facilitar 
 
 Com a compreensão desses tópicos avançados, você estará mais preparado para criar programas complexos em Python e aproveitar ao máximo a linguagem. Certifique-se de seguir os links para as explicações detalhadas de cada tópico para um aprendizado mais aprofundado.
 
-# Videos Aulas: 
+# Videos Aulas: :tv:
 
-- [Orientação a objetos](https://youtu.be/XXOYS_FRxUA)
-- [Herança e Polimorfismo - Parte 1](https://www.youtube.com/watch?v=HUYzbIyEwNI)
-- [Herança e Polimorfismo - Parte 2](https://www.youtube.com/watch?v=cDEkd5JYFBM)
-- [Exceções](https://youtu.be/nWLpqwGSkCM) 
-- [Expressões regulares](https://youtu.be/U83Hs9CDBnY) 
-- [Interface com o sistema de arquivos](https://youtu.be/rr0afWovWtA) 
-- [Módulo NumPy](https://www.youtube.com/watch?v=o9cANQB9HR0)
-- [Módulo Pandas](https://youtu.be/loOQP7qDVlM) 
-- [Módulo Requests](https://youtu.be/-_TYSUmoUwQ)
+- :tv: [Orientação a objetos](https://youtu.be/XXOYS_FRxUA)
+- :tv: [Herança e Polimorfismo - Parte 1](https://www.youtube.com/watch?v=HUYzbIyEwNI)
+- :tv: [Herança e Polimorfismo - Parte 2](https://www.youtube.com/watch?v=cDEkd5JYFBM)
+- :tv: [Exceções](https://youtu.be/nWLpqwGSkCM) 
+- :tv: [Expressões regulares](https://youtu.be/U83Hs9CDBnY) 
+- :tv: [Interface com o sistema de arquivos](https://youtu.be/rr0afWovWtA) 
+- :tv: [Módulo NumPy](https://www.youtube.com/watch?v=o9cANQB9HR0)
+- :tv: [Módulo Pandas](https://youtu.be/loOQP7qDVlM) 
+- :tv: [Módulo Requests](https://youtu.be/-_TYSUmoUwQ)
 
-# Codigos para treino: 
+# Codigos para treino: :computer:
 
 | Arquivo | Descrição |
 | --- | --- |
